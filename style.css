@@ -56,6 +56,8 @@ p {
 
     width: 150px;
     height: 300px;
+    position: absolute;
+    margin-left: 75px;
 
 }
 .border{
@@ -213,4 +215,10 @@ p2{
 }
 .image3{   
     align-items: center;
+}
+.circle{
+    width: 300px;
+    height: 300px;
+    border-radius: 90%;
+    background-color:#2D2D39;
 }
